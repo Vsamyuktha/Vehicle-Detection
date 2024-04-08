@@ -10,10 +10,12 @@ This project aims to detect three types of vehicles, labeled 1-3:
 
 The dataset followed the below file format:
 
-![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/607a77c6-0d9f-4ccb-a1ea-87eb7cdca385)
+![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/348de4fc-7ca3-45a9-9bd2-5f1e3f295548)
 
 
-The label text file format: **<image_id> <class> <cx> <cy> <w> <h>**. The predictions followed a similar format but were relative. The image_id was simply the file name minus the extension.
+The label text file follow the below format: 
+  **<image_id> <class> <cx> <cy> <w> <h>**. 
+The predictions followed a similar format but the values were relative. The image_id was the file name minus the extension.
 
 **Experimental Results**
 ![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/38a36dfc-2084-42f4-ac99-4539c5707d57)
