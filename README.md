@@ -33,16 +33,17 @@ Test Image using FasterRCNN (ResNet50):
 
 
 
-Test Image after applying NMS (Non-Maximum Suppression):
-
-![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/13f6ed6f-f076-4381-b00c-db9d4414746d)
-
-
-
-
 Test Image after filtering based on confidence score:
 
 ![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/e06014b0-1acf-4318-a9f3-d25c88fdeb63)
+
+
+
+
+
+Test Image after applying NMS (Non-Maximum Suppression) and confidence score filtering:
+
+![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/13f6ed6f-f076-4381-b00c-db9d4414746d)
 
 
 
