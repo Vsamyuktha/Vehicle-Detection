@@ -14,11 +14,12 @@ The dataset followed the below file format:
 
 
 The label text file follow the below format: 
-  **<image_id> <class> <cx> <cy> <w> <h>**. 
+  <image_id> <class> <cx> <cy> <w> <h> 
 The predictions followed a similar format but the values were relative. The image_id was the file name minus the extension.
 
 **Experimental Results**
-![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/38a36dfc-2084-42f4-ac99-4539c5707d57)
+![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/86dce2b2-53a0-441c-8658-53a3a8efe4d0)
+
 
 
 
