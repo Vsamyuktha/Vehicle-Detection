@@ -33,7 +33,7 @@ Test Image using FasterRCNN (ResNet50):
 
 
 
-Test Image after applying NMS:
+Test Image after applying NMS (Non-Maximum Suppression):
 
 ![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/13f6ed6f-f076-4381-b00c-db9d4414746d)
 
