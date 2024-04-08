@@ -8,7 +8,7 @@ This project aims to detect three types of vehicles, labeled 1-3:
 2. Medium-sized trucks (e.g., Amazon or FedEx delivery trucks)
 3. Large trucks (18-wheelers, buses, cargo trucks)
 
-The dataset followed the below file format:
+The dataset followed the below folder structure:
 
 ![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/348de4fc-7ca3-45a9-9bd2-5f1e3f295548)
 
