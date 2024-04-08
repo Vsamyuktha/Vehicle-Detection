@@ -19,7 +19,7 @@ The predictions followed a similar format but the values were relative. The imag
 
 **Experimental Results:**
 
-![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/f84d898a-cf8f-4f65-9315-fb4c62b6febb)
+![image](https://github.com/Vsamyuktha/Vehicle-Detection/assets/20947664/e5c383a0-24ee-492d-bcaa-1f8223c058e6)
 
 
 
